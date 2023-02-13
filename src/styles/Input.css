@@ -1,0 +1,7 @@
+.Input_first {
+    display: inline-flex;
+    justify-content: center;
+    flex-grow: 1;
+    margin: 10px;
+
+}
